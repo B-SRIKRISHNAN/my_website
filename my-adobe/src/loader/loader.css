@@ -1,0 +1,13 @@
+.worker{
+    height: 60px;
+    width:60px;
+    position: absolute;
+    top: 65px;
+    left: 120px;
+}
+.loader-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
